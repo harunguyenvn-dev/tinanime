@@ -1,1 +1,20 @@
+{
+    "id": "tin-anime",
+    "name": "TinAnime",
+    "version": "1.1.0",
+    "manifestURI": "https://raw.githubusercontent.com/harunguyenvn-dev/tinanime/refs/heads/main/manifest.json",
+    "language": "typescript",
+    "type": "plugin",
+    "description": "Tin tức anime nhật bản",
+    "author": "harunguyen",
+    "icon": "https://tinanime.net/storage/logo/tinanime-logo.png",
+    "website": "",
+    "lang": "VI",
+    "payloadURI": "https://raw.githubusercontent.com/harunguyenvn-dev/tinanime/refs/heads/main/tinanime.ts",
+    "plugin": {
+        "version": "1",
+        "permissions": {}
+    },
+    "isDevelopment": false
+}
 
