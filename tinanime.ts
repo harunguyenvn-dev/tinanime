@@ -3,8 +3,8 @@
 function init() {  
     $ui.register((ctx) => {  
         const tray = ctx.newTray({  
-            tooltipText: "Pirsch News",  
-            iconUrl: "https://pirsch.io/static/img/favicon-192.png",  
+            tooltipText: "Tin Anime",  
+            iconUrl: "https://tinanime.net/storage/logo/tinanime-logo.png",  
             withContent: true,  
         });  
 
